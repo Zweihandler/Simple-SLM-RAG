@@ -323,35 +323,12 @@ project/
     └── buku_panduan_gen_ai.pdf  # Sample PDF document
 ```
 
-## Future Enhancements
-
-- [ ] Web API interface (FastAPI)
-- [ ] Support for multiple document formats (DOCX, TXT, JSON)
-- [ ] Hybrid search (keyword + semantic)
-- [ ] Document filtering by metadata
-- [ ] Conversation memory and context preservation
-- [ ] Multi-GPU support for larger models
-- [ ] Streaming responses for real-time feedback
-- [ ] Performance monitoring and analytics
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues and pull requests to improve this project.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - DICODING for the learning materials
 - LangChain community for the excellent framework
 - HuggingFace for pre-trained models
 - ChromaDB team for the vector database
-
-## Contact & Support
-
-For questions or support, please open an issue on the GitHub repository or contact the project maintainers.
 
 ---
 
